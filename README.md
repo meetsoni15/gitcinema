@@ -14,7 +14,10 @@ Step through every commit like a film, with live file changes, author characters
 
 [![Go Version](https://img.shields.io/badge/Go-1.24+-00ADD8?style=flat&logo=go)](https://go.dev)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![CI](https://github.com/meetsoni15/gitcinema/actions/workflows/ci.yml/badge.svg)](https://github.com/meetsoni15/gitcinema/actions)
+[![Go CI](https://github.com/meetsoni15/gitcinema/actions/workflows/ci.yml/badge.svg)](https://github.com/meetsoni15/gitcinema/actions/workflows/ci.yml)
+[![Go Release](https://github.com/meetsoni15/gitcinema/actions/workflows/release.yml/badge.svg)](https://github.com/meetsoni15/gitcinema/actions/workflows/release.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/meetsoni15/gitcinema)](https://goreportcard.com/report/github.com/meetsoni15/gitcinema)
+[![Downloads](https://img.shields.io/github/downloads/meetsoni15/gitcinema/total?color=blue)](https://github.com/meetsoni15/gitcinema/releases)
 [![Built with Bubble Tea](https://img.shields.io/badge/built%20with-Bubble%20Tea-ff69b4)](https://github.com/charmbracelet/bubbletea)
 
 ![demo](demo.gif)

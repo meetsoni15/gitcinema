@@ -1,0 +1,19 @@
+# Binaries
+gitcinema
+*.exe
+*.out
+
+# Go
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# VHS
+dist/
